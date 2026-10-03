@@ -15,7 +15,9 @@ Direct marketing campaigns remain one of the most critical customer acquisition 
 
 In this project, we built an end-to-end, production-grade Machine Learning intelligence system to accurately predict whether a client will subscribe to a bank term deposit (`y = yes / no`). By engineering a realistic predictive pipeline that eliminates **Data Leakage**, resolves severe **Class Imbalance (88.3% / 11.7%)** using **SMOTENC**, and benchmarking five distinct machine learning algorithms with 5-Fold Stratified Cross-Validation, we deployed a **Gradient Boosting** classifier capable of **avoiding 72.5% of non-converting calls** while capturing **over 60% of genuine depositors**.
 
-> 📄 **Looking for the Word Document Report?** Download the formatted corporate report: [`docs/Bank_Term_Deposit_Prediction_Documentation.docx`](docs/Bank_Term_Deposit_Prediction_Documentation.docx).
+> 📄 **Executive Documentation Formats:**
+> * 📘 **Word Document Report:** [`docs/Bank_Term_Deposit_Prediction_Documentation.docx`](docs/Bank_Term_Deposit_Prediction_Documentation.docx)
+> * 📕 **PDF Report:** [`docs/Bank_Term_Deposit_Prediction_Documentation.pdf`](docs/Bank_Term_Deposit_Prediction_Documentation.pdf)
 
 ---
 
